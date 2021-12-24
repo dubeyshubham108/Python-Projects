@@ -5,3 +5,4 @@
 3. Generate Password with Python
 4. Acronyms Using Python
 5. Email Slicer in Python
+6. <a href="https://github.com/dubeyshubham786/Python-Projects/blob/main/Story%20Generator/Story_Generator.ipynb">Story Generator in Python</a>.
