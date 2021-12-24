@@ -1,4 +1,4 @@
-# Basic to advance projects in python.
+# Basic to Advance Projects in Python.
 ## Beginner's Level Project
 1. <a href="https://github.com/dubeyshubham786/Python-Projects/tree/main/Stone%20Paper%20Scissor">Stone Paper Scissor</a>
 2. Alarm Clock
