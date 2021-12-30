@@ -5,4 +5,5 @@ The Colorama module offers three main formatting options: Fore, Back, and Style.
 
 Traditionally, printing full-colour text to the terminal is accomplished by a series of escape characters on Linux or OS X systems. However, this will not work for Windows operating systems.
 
-For more detail about this module you can see the documentation of it here.
+For more detail about this module you can see the documentation of it 2. <a href="https://pypi.org/project/colorama/">here</a>
+
