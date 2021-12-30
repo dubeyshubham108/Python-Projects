@@ -1,5 +1,5 @@
 # Coloured Text In Pyton
-Here we have used Colorama module of python for printing coloured text
+Here we have used **Colorama** module of python for printing coloured text
 
 The Colorama module offers three main formatting options: Fore, Back, and Style. These allow us to change the foreground or background text color and style. The colors available for the foreground and background are black, red, green, yellow, blue, magenta, cyan, and white.
 
