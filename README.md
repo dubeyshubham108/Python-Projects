@@ -7,3 +7,4 @@
 5. <a href="https://github.com/dubeyshubham786/Python-Projects/blob/main/Email%20Slicer%20in%20Python/Email_Slicer_With_Python.ipynb">Email Slicer in Python
 6. <a href="https://github.com/dubeyshubham786/Python-Projects/blob/main/Story%20Generator/Story_Generator.ipynb">Story Generator in Python</a>.
 7. <a href="https://github.com/dubeyshubham786/Python-Projects/blob/main/Dice%20Roll%20Simulator/Dice_Roll_SImulator.ipynb">Dice Roll Simulator
+8. <a href="https://github.com/dubeyshubham786/Python-Projects/tree/main/Printing%20Coloured%20Text">Print Coloured Text
