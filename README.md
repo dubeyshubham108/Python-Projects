@@ -9,3 +9,4 @@
 7. <a href="https://github.com/dubeyshubham786/Python-Projects/blob/main/Dice%20Roll%20Simulator/Dice_Roll_SImulator.ipynb">Dice Roll Simulator
 8. <a href="https://github.com/dubeyshubham786/Python-Projects/tree/main/Printing%20Coloured%20Text">Print Coloured Text
 9. <a href="https://github.com/dubeyshubham786/Python-Projects/blob/main/Converting%20Fahrenheit%20to%20Celsius/Fahrenheit_to_Celsius.ipynb">Fahrenheit to Celsius
+10. <a href="https://github.com/dubeyshubham786/Python-Projects/blob/main/Quiz%20Game/Quiz_Game_with_python.ipynb">Quiz Game 
